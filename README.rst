@@ -5,15 +5,15 @@ django-rest-assured
         :target: http://travis-ci.org/ydaniv/django-rest-assured/
         :alt: Build
 
-.. image:: https://pypip.in/download/django-rest-assured/badge.svg
+.. image:: https://img.shields.io/pypi/dm/django-rest-assured.svg
         :target: https://pypi.python.org/pypi/django-rest-assured/
         :alt: Downloads
 
-.. image:: https://pypip.in/version/django-rest-assured/badge.svg
+.. image:: https://img.shields.io/pypi/v/django-rest-assured.svg
         :target: https://pypi.python.org/pypi/django-rest-assured/
         :alt: Latest Version
 
-.. image:: https://pypip.in/license/django-rest-assured/badge.svg
+.. image:: https://img.shields.io/pypi/l/django-rest-assured.svg
         :target: https://pypi.python.org/pypi/django-rest-assured/
         :alt: License
 
